@@ -1,0 +1,7 @@
+jsonlines
+numpy
+pandas
+scikit_learn
+tensorflow==2.3.0
+torch
+transformers
